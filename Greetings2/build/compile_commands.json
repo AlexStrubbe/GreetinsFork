@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/wushi/Desktop/OS-workdirectory/Lab2/Greetings2/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/greetings.dir/src/main.c.o -c /home/wushi/Desktop/OS-workdirectory/Lab2/Greetings2/src/main.c",
+  "file": "/home/wushi/Desktop/OS-workdirectory/Lab2/Greetings2/src/main.c",
+  "output": "CMakeFiles/greetings.dir/src/main.c.o"
+}
+]
